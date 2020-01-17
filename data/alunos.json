@@ -1,0 +1,22 @@
+[{
+    "id": 1, 
+    "nome": "Diogo Cardoso",
+    "periodo": "19.1",
+    "username": "dicardoso"
+},
+
+{
+    "id": 1,
+    "atividades":{
+        "ls":[
+            "text-util",
+            "color-names",
+            "color-shades",
+            "cep-api"
+        ],
+        "lm":[
+            "curriculo-css",
+            "animation"
+        ]    
+    }
+}]
