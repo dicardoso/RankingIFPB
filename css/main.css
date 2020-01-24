@@ -10,9 +10,13 @@ body{
     color: white;
 }
 
+.remaining{
+    border-bottom: 0;
+    margin-block-end: 0;
+}
 main{
     display: grid;
-    grid-template-columns: 1.5fr 2fr 2fr;
+    grid-template-columns: 1.8fr 2fr 2fr;
     grid-gap: .1rem;
 }
 
@@ -60,6 +64,7 @@ main{
     margin-top: 15px;
 }
 .geral .img{
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -167,3 +172,38 @@ main{
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.521);
 }
+
+.alunos .aluno{
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+.alunos .aluno h4{
+    margin-bottom: 2px;
+}
+
+.periodos .aluno{
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+.periodos .aluno h5{
+    margin: 15px 0 0 5px;
+}
+.periodos .aluno h4{
+    margin: 0 0 0 10px;
+}
+.dados{
+    overflow: auto;
+    scrollbar-width: 1px;
+}
+
+.dados::-webkit-scrollbar{
+    width: 10px;
+    background: rgba(0, 105, 44, 0.637);
+}
+
+.dados::-webkit-scrollbar-track { 
+    background: rgba(0,0,0,0.1); 
+}
+.dados::-webkit-scrollbar-thumb { border-radius:10px; background:#ffffff;  }
