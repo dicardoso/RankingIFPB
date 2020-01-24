@@ -1,22 +1,137 @@
-[{
-    "id": 1, 
-    "nome": "Diogo Cardoso",
-    "periodo": "19.1",
-    "username": "dicardoso"
-},
-
-{
-    "id": 1,
-    "atividades":{
-        "ls":[
-            "text-util",
-            "color-names",
-            "color-shades",
-            "cep-api"
-        ],
-        "lm":[
-            "curriculo-css",
-            "animation"
-        ]    
+[
+    {
+        "id": 1,
+        "periodo": "19.1",
+        "username": "dicardoso",
+        "atividades": {
+            "ls": [
+                "text-util",
+                "color-names",
+                "color-shades",
+                "cep-api"
+            ],
+            "lm": [
+                "curriculo-css",
+                "animation"
+            ],
+            "ape":[
+                "condicionais",
+                "funções",
+                "string",
+                "arquivos"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "periodo": "19.1",
+        "username": "8b1tz",
+        "atividades": {
+            "ls": [
+                "color-shades",
+                "cep-api"
+            ],
+            "lm": [
+                "curriculo-css",
+                "animation",
+                "background"
+            ],
+            "ape":[
+                "funções",
+                "string",
+                "arquivos"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "periodo": "18.1",
+        "username": "felipersdf",
+        "atividades": {
+            "ls": [
+                "color-shades",
+                "cep-api"
+            ],
+            "lm": [
+                "curriculo-css",
+                "animation",
+                "background"
+            ],
+            "pw": [
+                "intro"
+            ],
+            "ape":[
+                "condicionais",
+                "arquivos"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "periodo": "19.1",
+        "username": "fafojunior",
+        "atividades": {
+            "ls": [
+                "color-shades",
+                "cep-api",
+                "barato-coletivo"
+            ],
+            "lm": [
+                "curriculo-css",
+                "animation",
+                "background"
+            ],
+            "ape":[
+                "simulado",
+                "funções",
+                "string",
+                "arquivos"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "periodo": "19.1",
+        "username": "claudiodacruz",
+        "atividades": {
+            "ls": [
+                "text-util",
+                "barato-coletivo"
+            ],
+            "lm": [
+                "curriculo-css",
+                "background"
+            ],
+            "ape":[
+                "arquivos"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "periodo": "18.2",
+        "username": "lucachaves",
+        "atividades": {
+            "ls": [
+                "text-util",
+                "cep-api",
+                "todo",
+                "barato-coletivo"
+            ],
+            "lm": [
+                "curriculo-css",
+                "background"
+            ],
+            "pw":[
+                "atividade-1",
+                "atividade-2"
+            ],
+            "ape":[
+                "condicionais",
+                "funções",
+                "string",
+                "arquivos"
+            ]
+        }
     }
-}]
+]
