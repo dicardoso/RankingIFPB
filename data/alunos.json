@@ -1,9 +1,11 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "periodo": "19.1",
         "username": "dicardoso",
-        "atividades": {
+        "avatar_url": "https://avatars2.githubusercontent.com/u/32266873?v=4",
+        "feitos": 11,
+        "disciplinas": {
             "ls": [
                 "text-util",
                 "color-names",
@@ -12,24 +14,27 @@
             ],
             "lm": [
                 "curriculo-css",
-                "animation"
+                "animation",
+                "background"
             ],
             "ape":[
                 "condicionais",
                 "funções",
                 "string",
                 "arquivos"
-            ]
+            ],
+            "pw":[]
         }
     },
     {
-        "id": 2,
+        "id": 1,
         "periodo": "19.1",
         "username": "8b1tz",
-        "atividades": {
+        "avatar_url": "https://avatars1.githubusercontent.com/u/53948477?v=4",
+        "feitos": 7,
+        "disciplinas": {
             "ls": [
-                "color-shades",
-                "cep-api"
+                "color-shades"
             ],
             "lm": [
                 "curriculo-css",
@@ -40,14 +45,17 @@
                 "funções",
                 "string",
                 "arquivos"
-            ]
+            ],
+            "pw":[]
         }
     },
     {
-        "id": 3,
+        "id": 2,
         "periodo": "18.1",
         "username": "felipersdf",
-        "atividades": {
+        "avatar_url": "https://avatars0.githubusercontent.com/u/30394677?v=4",
+        "feitos": 8,
+        "disciplinas": {
             "ls": [
                 "color-shades",
                 "cep-api"
@@ -67,10 +75,12 @@
         }
     },
     {
-        "id": 4,
+        "id": 3,
         "periodo": "19.1",
         "username": "fafojunior",
-        "atividades": {
+        "avatar_url": "https://avatars3.githubusercontent.com/u/54004678?v=4",
+        "feitos": 10,
+        "disciplinas": {
             "ls": [
                 "color-shades",
                 "cep-api",
@@ -86,14 +96,17 @@
                 "funções",
                 "string",
                 "arquivos"
-            ]
+            ],
+            "pw":[]
         }
     },
     {
-        "id": 5,
+        "id": 4,
         "periodo": "19.1",
         "username": "claudiodacruz",
-        "atividades": {
+        "avatar_url": "https://avatars3.githubusercontent.com/u/54004678?v=4",
+        "feitos": 5,
+        "disciplinas": {
             "ls": [
                 "text-util",
                 "barato-coletivo"
@@ -104,14 +117,17 @@
             ],
             "ape":[
                 "arquivos"
-            ]
+            ],
+            "pw":[]
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "periodo": "18.2",
         "username": "lucachaves",
-        "atividades": {
+        "avatar_url": "https://avatars0.githubusercontent.com/u/205412?v=4",
+        "feitos": 12,
+        "disciplinas": {
             "ls": [
                 "text-util",
                 "cep-api",
